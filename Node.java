@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-//Connor McVeen 
+
 // The node class which describes a node in the network
 public class Node {
 
