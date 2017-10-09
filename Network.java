@@ -1,6 +1,6 @@
 import java.io.*;
 
-//Connor McVeen
+
 //The network class that brings everything together, and runs through a neural net utilizing a backpropagation algorithm. 
 public class Network {
 
