@@ -1,6 +1,6 @@
 
 
-//Connor McVeen
+
 // The layer class that describes a layer in the network
 public class Layer {
 
