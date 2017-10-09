@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// Connor McVeen 
+
 
 // Assignment 2 Main class
 public class Main {
